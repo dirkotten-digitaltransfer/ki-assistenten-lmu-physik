@@ -4,8 +4,8 @@
   "model-name": "Meta Llama 3.3 70B Instruct",
   "model": "llama-3.3-70b-instruct",
   "enable_tools": true,
-  "temperature": 0.0,
-  "top_p": 0.05,
+  "temperature": 0.2,
+  "top_p": 0.15,
   "arcana": {
     "id": "dirk.otten01/Wissensbasis Custom AI Studierenden FAQ PT1 LMU"
   },
