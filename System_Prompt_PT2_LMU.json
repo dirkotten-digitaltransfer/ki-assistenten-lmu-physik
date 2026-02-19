@@ -16,7 +16,7 @@
     },
     {
       "role": "info",
-      "content": "Dieser Assistent unterstützt bei der Erstellung von Tätigkeitsbeschreibungen für Eingruppierungen in der Forschung (Abschnitt 6 TV-L). Personenbezogene Daten werden nicht verarbeitet. Der Output wird immer manuell geprüft. Bei Fragen wenden Sie sich an Lukas Moos."
+      "content": "Dieser Assistent unterstützt bei der Erstellung von Tätigkeitsbeschreibungen für Eingruppierungen in der Forschung (Abschnitt 6 TV-L). Personenbezogene Daten werden nicht verarbeitet. Der Output wird immer manuell geprüft. | System-Prompt v0.3"
     }
   ]
 }
